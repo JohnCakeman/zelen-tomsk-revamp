@@ -22,7 +22,7 @@ const products = [
     id: 3,
     name: "Руккола",
     description: "Пикантный, слегка перечный вкус, идеально для салатов и сэндвичей",
-    image: "https://images.unsplash.com/photo-1515191107209-c28698631303?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "/lovable-uploads/21c51ef4-f492-4ca8-a400-9cc7203b6b7c.png",
     price: "350 ₽/100г",
     growthTime: "6-8 дней"
   },
