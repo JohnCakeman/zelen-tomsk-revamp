@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -52,6 +53,33 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+                // Custom colors for Micro Zeleni
+                'micro-green': {
+                    50: '#f2f8f3',
+                    100: '#e0efe3',
+                    200: '#c1dfca',
+                    300: '#94c5a0',
+                    400: '#68a574',
+                    500: '#3A8C57',
+                    600: '#2D5C33',
+                    700: '#285c3f',
+                    800: '#234a36',
+                    900: '#1e3d2f',
+                    950: '#0f2119',
+                },
+                'micro-cream': {
+                    50: '#F9F5E9',
+                    100: '#f1ead4',
+                    200: '#e9dfc0',
+                    300: '#dac995',
+                    400: '#c9ae6c',
+                    500: '#bb994f',
+                    600: '#a27e41',
+                    700: '#826337',
+                    800: '#6c5232',
+                    900: '#5a442c',
+                    950: '#332515',
+                },
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -84,11 +112,22 @@ export default {
 					to: {
 						height: '0'
 					}
-				}
+				},
+                'fade-in': {
+                    '0%': {
+                        opacity: '0',
+                        transform: 'translateY(10px)'
+                    },
+                    '100%': {
+                        opacity: '1',
+                        transform: 'translateY(0)'
+                    }
+                }
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+                'fade-in': 'fade-in 0.5s ease-out forwards'
 			}
 		}
 	},
