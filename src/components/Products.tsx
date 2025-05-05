@@ -14,41 +14,41 @@ const products = [
     id: 2,
     name: "Подсолнечник",
     description: "Ореховый вкус с хрустящей текстурой, прекрасное дополнение к мясным блюдам",
-    image: "https://images.unsplash.com/photo-1583687355032-89b902b7335f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1582487809094-520150fdb872?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "290 ₽/100г",
     growthTime: "8-12 дней"
   },
   {
     id: 3,
-    name: "Редис",
-    description: "Острый пряный вкус, отлично подходит для азиатских блюд и бургеров",
-    image: "https://images.unsplash.com/photo-1517029596710-ddd2e88a0eea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    name: "Руккола",
+    description: "Пикантный, слегка перечный вкус, идеально для салатов и сэндвичей",
+    image: "https://images.unsplash.com/photo-1627651123990-384a50acfdaa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "350 ₽/100г",
     growthTime: "6-8 дней"
   },
   {
     id: 4,
-    name: "Базилик",
-    description: "Ароматный с нотками аниса, идеален для итальянских блюд и гарниров",
-    image: "https://images.unsplash.com/photo-1627037846867-02c50790b9c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-    price: "380 ₽/100г",
-    growthTime: "14-21 день"
+    name: "Кресс-салат",
+    description: "Пряный острый вкус, прекрасное дополнение к бутербродам и супам",
+    image: "https://images.unsplash.com/photo-1644911435883-6aba3cd651f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    price: "280 ₽/100г",
+    growthTime: "5-7 дней"
   },
   {
     id: 5,
-    name: "Брокколи",
-    description: "Мягкий вкус с нотками капусты, богат питательными веществами",
-    image: "https://images.unsplash.com/photo-1584270354955-9b76e73fb9d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-    price: "340 ₽/100г",
-    growthTime: "10-14 дней"
+    name: "Пшеница",
+    description: "Сладковатый вкус с нотками свежего хлеба, богат питательными веществами",
+    image: "https://images.unsplash.com/photo-1636736721767-650b9c346ed3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    price: "260 ₽/100г",
+    growthTime: "7-9 дней"
   },
   {
     id: 6,
-    name: "Горчица",
-    description: "Пикантный острый вкус, прекрасно дополняет мясные блюда и супы",
-    image: "https://images.unsplash.com/photo-1556801712-76c8eb07bbc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    name: "Люцерна",
+    description: "Мягкий бобовый вкус, идеально подходит для смузи и здоровых коктейлей",
+    image: "https://images.unsplash.com/photo-1572143155913-9421bd444de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "310 ₽/100г",
-    growthTime: "7-10 дней"
+    growthTime: "6-8 дней"
   }
 ];
 
@@ -58,10 +58,10 @@ const Products = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-micro-green-700">
-            Наша продукция
+            Наша микрозелень
           </h2>
           <p className="text-lg text-gray-700 max-w-2xl mx-auto">
-            Мы выращиваем разнообразные виды микрозелени, чтобы удовлетворить потребности даже самых изысканных ресторанов Томска
+            Мы выращиваем разнообразные виды свежих проростков микрозелени, чтобы удовлетворить потребности даже самых изысканных ресторанов Томска
           </p>
         </div>
         

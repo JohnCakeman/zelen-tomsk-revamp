@@ -25,7 +25,7 @@ const CTA = () => {
             </div>
             <div className="hidden md:block relative">
               <img 
-                src="https://images.unsplash.com/photo-1561136594-7f68413baa99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80" 
+                src="https://images.unsplash.com/photo-1555159026-e3f4109a5017?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80" 
                 alt="Микрозелень на блюде" 
                 className="w-full h-full object-cover"
               />
