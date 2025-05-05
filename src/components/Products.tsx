@@ -14,7 +14,7 @@ const products = [
     id: 2,
     name: "Подсолнечник",
     description: "Ореховый вкус с хрустящей текстурой, прекрасное дополнение к мясным блюдам",
-    image: "https://images.unsplash.com/photo-1572143155913-9421bd444de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "/lovable-uploads/7871b2b3-db07-4f71-96a2-d6ad7e06c2ca.png",
     price: "290 ₽/100г",
     growthTime: "8-12 дней"
   },
