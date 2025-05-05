@@ -4,19 +4,19 @@ const steps = [
     id: 1,
     title: "Выращивание",
     description: "Мы выращиваем микрозелень в контролируемой среде без пестицидов и химикатов",
-    image: "https://images.unsplash.com/photo-1600046550670-93d18e9a0a7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
+    image: "https://images.unsplash.com/photo-1581296493682-7b0221b4ee8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
   },
   {
     id: 2,
     title: "Сбор",
     description: "Собираем микрозелень в оптимальное время, когда она достигает пика питательности",
-    image: "https://images.unsplash.com/photo-1603406406530-81b5f75a9811?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
+    image: "https://images.unsplash.com/photo-1520052203542-d3ad28c3be4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
   },
   {
     id: 3,
     title: "Упаковка",
     description: "Бережно упаковываем в экологичную тару, сохраняющую свежесть",
-    image: "https://images.unsplash.com/photo-1611767234151-5576f6a90d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
+    image: "https://images.unsplash.com/photo-1589923188651-268a9765eb58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
   },
   {
     id: 4,

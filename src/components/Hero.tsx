@@ -41,14 +41,14 @@ const Hero = () => {
           <div className="relative fade-in [animation-delay:0.5s]">
             <div className="rounded-2xl overflow-hidden bg-white p-4 shadow-lg rotate-3 transform hover-scale">
               <img 
-                src="https://images.unsplash.com/photo-1520565538411-e641b5bbd101?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" 
+                src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" 
                 alt="Свежая микрозелень" 
                 className="rounded-xl w-full h-[400px] md:h-[500px] object-cover"
               />
             </div>
             <div className="absolute -bottom-10 -left-10 bg-white p-4 rounded-xl shadow-lg -rotate-6 hidden md:block hover-scale z-10">
               <img 
-                src="https://images.unsplash.com/photo-1592488831709-8f13e65b9b44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80" 
+                src="https://images.unsplash.com/photo-1572143155913-9421bd444de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80" 
                 alt="Микрозелень крупным планом" 
                 className="w-32 h-32 object-cover rounded-lg"
               />

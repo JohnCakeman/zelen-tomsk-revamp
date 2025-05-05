@@ -14,7 +14,7 @@ const products = [
     id: 2,
     name: "Подсолнечник",
     description: "Ореховый вкус с хрустящей текстурой, прекрасное дополнение к мясным блюдам",
-    image: "https://images.unsplash.com/photo-1582487809094-520150fdb872?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1572143155913-9421bd444de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "290 ₽/100г",
     growthTime: "8-12 дней"
   },
@@ -22,7 +22,7 @@ const products = [
     id: 3,
     name: "Руккола",
     description: "Пикантный, слегка перечный вкус, идеально для салатов и сэндвичей",
-    image: "https://images.unsplash.com/photo-1627651123990-384a50acfdaa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1515191107209-c28698631303?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "350 ₽/100г",
     growthTime: "6-8 дней"
   },
@@ -30,7 +30,7 @@ const products = [
     id: 4,
     name: "Кресс-салат",
     description: "Пряный острый вкус, прекрасное дополнение к бутербродам и супам",
-    image: "https://images.unsplash.com/photo-1644911435883-6aba3cd651f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1580751667811-c56bc71d1dfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "280 ₽/100г",
     growthTime: "5-7 дней"
   },
@@ -38,7 +38,7 @@ const products = [
     id: 5,
     name: "Пшеница",
     description: "Сладковатый вкус с нотками свежего хлеба, богат питательными веществами",
-    image: "https://images.unsplash.com/photo-1636736721767-650b9c346ed3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1622729871501-22dea280e2f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "260 ₽/100г",
     growthTime: "7-9 дней"
   },
@@ -46,7 +46,7 @@ const products = [
     id: 6,
     name: "Люцерна",
     description: "Мягкий бобовый вкус, идеально подходит для смузи и здоровых коктейлей",
-    image: "https://images.unsplash.com/photo-1572143155913-9421bd444de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
     price: "310 ₽/100г",
     growthTime: "6-8 дней"
   }
